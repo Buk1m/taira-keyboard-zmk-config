@@ -1,4 +1,4 @@
-# Taira Keyboard ZMK config
+# Taira Keyboard ZMK config - Bukim
 
 This repository builds the latest ZMK firmware for the [Taira Keyboard](https://github.com/strayer/taira-keyboard).
 
